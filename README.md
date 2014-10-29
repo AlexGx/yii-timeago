@@ -60,6 +60,7 @@ echo Yii::app()->format->timeago('2012-07-31 19:08:58');
 * et (estonian) @kullar84
 * zn_cn (simplified chinese), zn_tw (traditional chinese)  
 * es (spanish) @yepes
+* ro (romanian) @totpero
 
 In future will be added more locales.  
 
